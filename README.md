@@ -1,1 +1,1 @@
-# movieReview
+Sample application to review movies.
